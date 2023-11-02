@@ -1,6 +1,6 @@
 from setuptools import setup
 
-package_name = 'droids_controller'
+package_name = 'line_follower_controller'
 
 setup(
     name=package_name,
@@ -20,8 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "line_follower = droids_controller.line_follower:main",
-            "serial_repeater = droids_controller.serial_repeater:main",
+            "line_follower = line_follower_controller.line_follower:main",
+            "serial_repeater = line_follower_controller.serial_repeater:main",
         ],
     },
 )

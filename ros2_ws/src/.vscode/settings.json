@@ -1,13 +1,13 @@
 {
     "python.autoComplete.extraPaths": [
-        "/home/gruedi/GSDroid/ros2_ws/build/gsdroid_controller",
-        "/home/gruedi/GSDroid/ros2_ws/install/gsdroid_controller/lib/python3.10/site-packages",
+        "/home/gruedi/Repos/Create3-Grasshopper-Toolkit/ros2_ws/build/droids_controller",
+        "/home/gruedi/Repos/Create3-Grasshopper-Toolkit/ros2_ws/install/droids_controller/lib/python3.10/site-packages",
         "/opt/ros/humble/lib/python3.10/site-packages",
         "/opt/ros/humble/local/lib/python3.10/dist-packages"
     ],
     "python.analysis.extraPaths": [
-        "/home/gruedi/GSDroid/ros2_ws/build/gsdroid_controller",
-        "/home/gruedi/GSDroid/ros2_ws/install/gsdroid_controller/lib/python3.10/site-packages",
+        "/home/gruedi/Repos/Create3-Grasshopper-Toolkit/ros2_ws/build/droids_controller",
+        "/home/gruedi/Repos/Create3-Grasshopper-Toolkit/ros2_ws/install/droids_controller/lib/python3.10/site-packages",
         "/opt/ros/humble/lib/python3.10/site-packages",
         "/opt/ros/humble/local/lib/python3.10/dist-packages"
     ]
